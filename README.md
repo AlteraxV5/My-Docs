@@ -47,7 +47,7 @@ const AltOffx: AltOfc = {
 </div>
 <h3>📈 Coding Activity</h3>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AltOffx&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="AltOffx Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlteraxV5&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="AltOffx Activity Graph" width="100%" />
 </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
