@@ -2,8 +2,6 @@
 ### Portofolio
 
 <div align="center">
-
-<!-- Ganti URL di bawah dengan URL banner anime lo yang asli -->
 <img src="https://c.termai.cc/i106/8p4e.jpg" alt="Banner" width="100%" />
 
 <br/>
@@ -11,8 +9,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Laravel+%26+TypeScript+User;Backend+Developer;Always+Coding..." alt="Typing SVG" />
 
 <br/><br/>
-
-<!-- Ganti [IG_USERNAME] dan [TG_USERNAME] dengan handle lo -->
 <a href="https://instagram.com/altoffc">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
@@ -67,7 +63,6 @@ const AltOffx: Star_Studio_Code = {
 
 
 <div align="center">
-<!-- Ganti URL di bawah dengan URL gradient footer lo yang asli -->
-<img src="" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient" alt="Footer" width="100%" />
 
 </div>
