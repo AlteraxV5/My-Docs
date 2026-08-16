@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Laravel+%26+TypeScript+User;Backend+Developer;Always+Coding..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=+I'm+AltOffx;Pendiri+Star+Studio+Code+(SSC)JavaScript+Enthusiast;Backend+Developer+%26+Development;CommondJS;Ecmascript+Module;Laravel+%26+TypeScript+User;Always+Coding..." alt="Typing SVG" />
 
 <br/><br/>
 <a href="https://instagram.com/altoffc">
